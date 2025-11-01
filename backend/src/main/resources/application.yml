@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/stock_savvy?useSSL=false&serverTimezone=UTC
+    username: root
+    password: ""   # leave empty if XAMPP MySQL root has no password
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update   # use 'update' to keep existing data, 'create' drops tables
+    show-sql: true       # logs SQL queries
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8080   # your Spring Boot server port

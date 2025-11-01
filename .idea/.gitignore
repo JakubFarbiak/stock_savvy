@@ -1,0 +1,35 @@
+# -------------------------
+# IntelliJ / IDE files
+# -------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+# -------------------------
+# Node / Frontend
+# -------------------------
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# Java / Spring Boot / Maven
+# -------------------------
+target/
+*.class
+*.jar
+*.war
+*.log
+*.h2.db
+*.db
+
+# -------------------------
+# OS / Misc
+# -------------------------
+.DS_Store
+Thumbs.db
