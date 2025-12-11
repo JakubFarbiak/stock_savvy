@@ -1,0 +1,16 @@
+# IntelliJ / JetBrains
+.idea/
+
+# Node dependencies
+frontend/node_modules/
+
+# Build outputs
+backend/target/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

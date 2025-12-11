@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/backend/stock-savant-backend.iml" filepath="$PROJECT_DIR$/backend/stock-savant-backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/stock_savvy.iml" filepath="$PROJECT_DIR$/.idea/stock_savvy.iml" />
-    </modules>
-  </component>
-</project>
